@@ -1,0 +1,234 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.unit-toggle {
+    margin-bottom: 10px;
+}
+
+.error {
+    color: #FF4136;
+    margin-bottom: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: white;
+}
+.wrapper{
+    width: 400px;
+    border-radius: 7px;
+    background: #fff;
+
+}
+.wrapper header{
+    color: #007BFF;
+    font-size: 21px;
+    font-weight: 500;
+    padding: 16px 15px;
+    display: flex;
+    align-items: center;
+    border-botton: 1px solid #ffFF
+}
+header i{
+    cursor: pointer;
+    font-size: 30px;
+    margin: 8px;
+}
+.wrapper.active header i{
+    font-size: 30px;
+    margin-left: 5px;
+}
+.wrapper .input-part{
+  /*  display: none;  */
+    margin: 20px 25px 30px;
+}
+.wrapper.active .input-part{
+    display: none;
+}
+.input-part .info-txt{
+    display: none;
+    font-size: 17px;
+    text-align: center;
+    padding: 12ox 10px;
+    border-radius: 7px;
+    margin-bottom: 15px;
+}
+
+.info-txt.error{
+    display: block;
+    color: #721c24;
+    background: #f8d7da;
+    border: 1px solid #f0f0f0;
+}
+
+.info-txt.pending{
+    color: green;
+    background: #d1ecf1;
+    border: 1px solid #bee5eb;
+}
+.input-part :where(input, button){
+    width: 100%;
+    height: 55px;
+    border: none;
+    outline: none;
+}
+.input-part input{
+    text-align: center;
+    border: 1px solid #bee5eb;
+}
+.input-part input:is(:focus, :valid){
+    border:2px solid #43affc
+}
+.input-part .separator{
+    height: 1px;
+    width: 100%;
+    margin: 25px 0;
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.separator::before{
+    content: "or";
+    color: #ccc;
+    font-size: 19px;
+    padding: 0 15px;
+    background: #f0f0f0;
+}
+.input-part button{
+    color: #fff;
+    cursor: pointer;
+    background: #007BFF;
+}
+.wrapper .weather-part{
+    margin: 30px 0 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.wrapper.active .weather-part{
+    display: flex;
+}
+.weather-part img{
+    max-width: 125px;
+}
+.weather-part .temp{
+    display: flex;
+    font-size: 72px;
+    font-weight: 500;
+}
+.weather-part .temp .numb{
+    font-weight: 600;
+}
+.weather-part .temp .deg{
+    font-size: 40px;
+    margin: 10px 5px 0 0;
+    display: block;
+}
+.weather-part .weather{
+    font-size: 21px;
+    text-align: center;
+    margin: -5px 20px 15px;
+}
+.weather-part .location{
+    display: flex;
+    align-items: center;
+    font-size: 21px;
+    margin-bottom: 30px;
+}
+.location i{
+    font-size: 22px;
+    margin-right: 5px;
+}
+.weather-part .bottom-details{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid grey;
+    justify-content: space-between;
+}
+
+.bottom-details .column{
+    width: 100%;
+    display: flex;
+    padding: 15px 0;
+    align-items: center;
+    justify-content: center;
+}
+.column i{
+    color: #43affc;
+    font-size: 40px;
+}
+.column .humidity{
+    
+    border-left: grey;
+} 
+.details .temp .humidity span{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: -3px;
+}
+.details .temp .deg{
+    margin: 0;
+    font-size: 17px;
+    pad: 0 2px 0 1px;
+}
+.details p{
+    font-size: 14px;
+    margin-top: -6px;
+}
