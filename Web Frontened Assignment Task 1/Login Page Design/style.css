@@ -1,0 +1,638 @@
+.desktop-join-group-sign-in, .desktop-join-group-sign-in * { box-sizing: border-box; }.desktop-join-group-sign-in {background: #ffffff; width: 1440px; height: 1024px; position: relative; overflow: hidden;}
+ .group-60 {position: absolute; inset: 0;}
+ .group-30 {width: 1440px; height: 72px; position: static;}
+ .rectangle {background: #ffffff; width: 1440px; height: 72px; position: absolute; left: 0px;top: 0px; box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.12);}
+ .whole {width: 162.57px; height: 24px; position: absolute; left: 72px;top: 24px; overflow: hidden;}
+ .whole2 {position: absolute; inset: 0;}
+ .group-64 {width: 24.02px; height: 24.01px; position: static;}
+ .ellipse-24 {position: absolute; left: 93.32px;top: 8.53px; overflow: visible;}
+ .group-63 {width: 24.02px; height: 24.01px; position: static;}
+ .group-61 {position: absolute; left: 84.79px;top: 0px; overflow: visible;}
+ .group-62 {position: absolute; left: 97.63px;top: 0px; overflow: visible;}
+ .path-957 {position: absolute; left: 84.82px;top: 12.79px; overflow: visible;}
+ .path-958 {position: absolute; left: 103.32px;top: 12.79px; overflow: visible;}
+ .path-959 {position: absolute; left: 84.79px;top: -0.01px; overflow: visible;}
+ .path-960 {position: absolute; left: 97.63px;top: 12.79px; overflow: visible;}
+ .path-961 {position: absolute; left: 90.31px;top: 12.82px; overflow: visible;}
+ .path-962 {position: absolute; left: 97.63px;top: 0px; overflow: visible;}
+ .group-65 {position: absolute; left: -0.01px;top: 1.17px; overflow: visible;}
+ .group-66 {position: absolute; left: 111.58px;top: 1.37px; overflow: visible;}
+ .union-1 {position: absolute; left: 84.79px;top: 0px; overflow: visible;}
+ .group-29 {width: 360px; height: 42px; position: static;}
+ .rectangle2 {background: #f2f2f2; border-radius: 21px; width: 360px; height: 42px; position: absolute; left: 540px;top: 16px;}
+ .group-28 {width: 22px; height: 22px; position: static;}
+ .baseline-search-24-px {position: absolute; left: 554px;top: 26px; overflow: visible;}
+ .search-for-your-favorite-groups-in-atg {color: #5c5c5c; text-align: left; font: 500 14px 'IBM Plex Sans', sans-serif; position: absolute; left: 590px;top: 28px;}
+ .baseline-arrow-drop-down-24-px {position: absolute; left: 1344px;top: 26px; overflow: visible;}
+ .line {border-style: solid; border-color: #e0e0e0; border-width: 1px 0 0 0; width: 1040px; height: 0px; position: absolute; left: 200px;top: 140px;}
+ .group-59 {width: 173px; height: 36px; position: static;}
+ .group-58 {width: 36px; height: 36px; position: static;}
+ .rectangle-4-1 {background: #edeef0; border-radius: 4px; width: 36px; height: 36px; position: absolute; left: 1204px;top: 92px;}
+ .baseline-arrow-drop-down-24-px2 {position: absolute; left: 1212px;top: 100px; overflow: visible;}
+ .group-57 {width: 133px; height: 36px; position: static;}
+ .rectangle-4 {background: #edeef0; border-radius: 4px; width: 133px; height: 36px; position: absolute; left: 1067px;top: 92px;}
+ .write-a-post {color: #000000; text-align: left; font: 500 15px 'IBM Plex Sans', sans-serif; position: absolute; left: 1105px;top: 100px;}
+ .baseline-edit-24-px {position: absolute; left: 1077px;top: 99px; overflow: visible;}
+ .line2 {border-style: solid; border-color: #e0e0e0; border-width: 1px 0 0 0; opacity: 0; width: 1296px; height: 0px; position: absolute; left: 72px;top: 84px;}
+ .line-2 {border-style: solid; border-color: #000000; border-width: 1px 0 0 0; width: 93px; height: 0px; position: absolute; left: 200px;top: 140px;}
+ .group-34 {width: 358px; height: 21px; position: static;}
+ .all-posts-32 {color: #000000; text-align: left; font: 400 16px 'IBM Plex Sans', sans-serif; position: absolute; left: 200px;top: 99px;}
+ .article {color: #8a8a8a; text-align: left; font: 400 16px 'IBM Plex Sans', sans-serif; position: absolute; left: 313px;top: 99px;}
+ .event {color: #8a8a8a; text-align: left; font: 400 16px 'IBM Plex Sans', sans-serif; position: absolute; left: 380px;top: 99px;}
+ .education {color: #8a8a8a; text-align: left; font: 400 16px 'IBM Plex Sans', sans-serif; position: absolute; left: 439px;top: 99px;}
+ .job {color: #8a8a8a; text-align: left; font: 400 16px 'IBM Plex Sans', sans-serif; position: absolute; left: 531px;top: 99px;}
+ .group-37 {width: 692px; height: 472px; position: static;}
+ .rectangle-42 {background: #ffffff; border-radius: 4px; border-style: solid; border-color: #e0e0e0; border-width: 1px; width: 692px; height: 472px; position: absolute; left: 200px;top: 168px;}
+ .baseline-more-vert-24-px {position: absolute; left: 872px;top: 444px; transform: translate(-28px, 0px); overflow: visible;}
+ .article2 {color: #000000; text-align: left; font: 500 18px 'IBM Plex Sans', sans-serif; position: absolute; left: 220px;top: 408px;}
+ .what-if-famous-brands-had-regular-fonts-meet-regula-brands {color: #000000; text-align: left; font: 600 22px/134.17% 'IBM Plex Sans', sans-serif; position: absolute; left: 220px;top: 443px; width: 600px;}
+ .rectangle-5 {background: linear-gradient(to left, #c4c4c4, #c4c4c4); border-radius: 4px 4px 0px 0px; width: 692px; height: 220px; position: absolute; left: 200px;top: 168px;}
+ .i-ve-worked-in-ux-for-the-better-part-of-a-decade-from-now-on-i-plan-to-rei {color: #5c5c5c; text-align: left; font: 400 19px/134.17% 'IBM Plex Sans', sans-serif; position: absolute; left: 220px;top: 515px; width: 652px;}
+ .icon-action-visibility-24-px {position: absolute; left: 777px;top: 587px; overflow: visible;}
+ ._1-4-k-views {color: #525252; text-align: right; font: 500 14px 'IBM Plex Sans', sans-serif; position: absolute; left: 803px;top: 587px;}
+ .rectangle-3 {border-radius: 24px; width: 48px; height: 48px; position: absolute; left: 220px;top: 572px;}
+ .sarthak-kamra {color: #000000; text-align: left; font: 600 18px 'IBM Plex Sans', sans-serif; position: absolute; left: 278px;top: 584px;}
+ .group-37-1 {width: 692px; height: 472px; position: static;}
+ .rectangle-43 {background: #ffffff; border-radius: 4px; border-style: solid; border-color: #e0e0e0; border-width: 1px; width: 692px; height: 472px; position: absolute; left: 200px;top: 656px;}
+ .baseline-more-vert-24-px2 {position: absolute; left: 872px;top: 932px; transform: translate(-28px, 0px); overflow: visible;}
+ .education2 {color: #000000; text-align: left; font: 500 18px 'IBM Plex Sans', sans-serif; position: absolute; left: 220px;top: 896px;}
+ .tax-benefits-for-investment-under-national-pension-scheme-launched-by-government {color: #000000; text-align: left; font: 600 22px/134.55% 'IBM Plex Sans', sans-serif; position: absolute; left: 220px;top: 931px; width: 600px;}
+ .rectangle-52 {background: linear-gradient(to left, #c4c4c4, #c4c4c4); border-radius: 4px 4px 0px 0px; width: 692px; height: 220px; position: absolute; left: 200px;top: 656px;}
+ .i-ve-worked-in-ux-for-the-better-part-of-a-decade-from-now-on-i-plan-to-rei2 {color: #5c5c5c; text-align: left; font: 400 19px/134.17% 'IBM Plex Sans', sans-serif; position: absolute; left: 220px;top: 1003px; width: 652px;}
+ .icon-action-visibility-24-px3 {position: absolute; left: 777px;top: 1075px; overflow: visible;}
+ ._1-4-k-views2 {color: #525252; text-align: right; font: 500 14px 'IBM Plex Sans', sans-serif; position: absolute; left: 803px;top: 1075px;}
+ .rectangle-32 {border-radius: 24px; width: 48px; height: 48px; position: absolute; left: 220px;top: 1060px;}
+ .sarah-west {color: #000000; text-align: left; font: 600 18px 'IBM Plex Sans', sans-serif; position: absolute; left: 278px;top: 1072px;}
+ .group-44 {width: 243px; height: 236px; position: static;}
+ .group-40 {width: 177px; height: 35px; position: static;}
+ .rectangle-53 {background: #ffffff; border-radius: 4px; border-style: solid; border-color: #525252; border-width: 0.4px; width: 177px; height: 35px; position: absolute; left: 984px;top: 238px;}
+ .outline-my-location-24-px {opacity: 0.699999988079071; position: absolute; left: 990px;top: 245px; overflow: visible;}
+ .use-current-location {color: #000000; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; opacity: 0.699999988079071; position: absolute; left: 1019px;top: 247px;}
+ .or {color: #000000; text-align: right; font: 500 13px 'IBM Plex Sans', sans-serif; position: absolute; left: 984px;top: 297px;}
+ .group-41 {width: 240px; height: 30px; position: static;}
+ .line-3 {border-style: solid; border-color: #b8b8b8; border-width: 0.4px 0 0 0; width: 240px; height: 0px; position: absolute; left: 984px;top: 368px;}
+ .enter-location-manually {color: #000000; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; opacity: 0.6000000238418579; position: absolute; left: 984px;top: 339px;}
+ .outline-search-24-px {opacity: 0.30000001192092896; position: absolute; left: 1204px;top: 338px; overflow: visible;}
+ .group-43 {width: 99px; height: 18px; position: static;}
+ .location {color: #000000; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; text-transform: uppercase; position: absolute; left: 1006px;top: 196px;}
+ .outline-location-on-24-px-2 {position: absolute; left: 984px;top: 196px; overflow: visible;}
+ .group-42 {width: 243px; height: 32px; position: static;}
+ .your-location-will-help-us-serve-better-and-extend-a-personalised-experience {color: #000000; text-align: left; font: 400 12px 'IBM Plex Sans', sans-serif; opacity: 0.5; position: absolute; left: 1007px;top: 400px; width: 220px;}
+ .baseline-error-outline-24-px {opacity: 0.5; position: absolute; left: 984px;top: 401px; overflow: visible;}
+ .group-45 {width: 94px; height: 18px; position: static;}
+ .connect {color: #000000; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; text-transform: uppercase; position: absolute; left: 1006px;top: 499px;}
+ .outline-group-24-px {position: absolute; left: 984px;top: 499px; overflow: visible;}
+ .group-46 {width: 240px; height: 36px; position: static;}
+ .rectangle-6 {border-radius: 21px; width: 36px; height: 36px; position: absolute; left: 984px;top: 541px;}
+ .sarthak-kamra2 {color: #000000; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; position: absolute; left: 1032px;top: 550px; width: 104px;}
+ .rectangle-7 {background: #edeef0; border-radius: 14px; width: 61px; height: 24px; position: absolute; left: 1163px;top: 547px;}
+ .connect2 {color: #000000; text-align: center; font: 400 12px 'IBM Plex Sans', sans-serif; position: absolute; left: 1171px;top: 551px;}
+ .group-51 {width: 240px; height: 36px; position: static;}
+ .rectangle-7-1 {background: #edeef0; border-radius: 14px; width: 61px; height: 24px; position: absolute; left: 1163px;top: 605px;}
+ .connect3 {color: #000000; text-align: center; font: 400 12px 'IBM Plex Sans', sans-serif; position: absolute; left: 1171px;top: 609px;}
+ .rectangle-62 {border-radius: 21px; width: 36px; height: 36px; position: absolute; left: 984px;top: 599px;}
+ .sarah-west2 {color: #000000; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; position: absolute; left: 1032px;top: 608px; width: 104px;}
+ .group-48 {width: 240px; height: 36px; position: static;}
+ .rectangle-7-2 {background: #000000; border-radius: 14px; width: 75px; height: 24px; position: absolute; left: 1149px;top: 663px;}
+ .connected {color: #ffffff; text-align: center; font: 400 12px 'IBM Plex Sans', sans-serif; position: absolute; left: 1157px;top: 667px;}
+ .rectangle-63 {border-radius: 21px; width: 36px; height: 36px; position: absolute; left: 984px;top: 657px;}
+ .joy-lawson {color: #000000; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; position: absolute; left: 1032px;top: 666px; width: 104px;}
+ .group-49 {width: 240px; height: 36px; position: static;}
+ .rectangle-7-3 {background: #edeef0; border-radius: 14px; width: 61px; height: 24px; position: absolute; left: 1163px;top: 721px;}
+ .connect4 {color: #000000; text-align: center; font: 400 12px 'IBM Plex Sans', sans-serif; position: absolute; left: 1171px;top: 725px;}
+ .rectangle-64 {border-radius: 21px; width: 36px; height: 36px; position: absolute; left: 984px;top: 715px;}
+ .john-doe {color: #000000; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; position: absolute; left: 1032px;top: 724px; width: 104px;}
+ .group-50 {width: 240px; height: 36px; position: static;}
+ .rectangle-7-4 {background: #edeef0; border-radius: 14px; width: 61px; height: 24px; position: absolute; left: 1163px;top: 779px;}
+ .connect5 {color: #000000; text-align: center; font: 400 12px 'IBM Plex Sans', sans-serif; position: absolute; left: 1171px;top: 783px;}
+ .rectangle-65 {border-radius: 21px; width: 36px; height: 36px; position: absolute; left: 984px;top: 773px;}
+ .siddharth-goyal {color: #000000; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; position: absolute; left: 1032px;top: 782px; width: 104px;}
+ .see-more {color: #2f6ce5; text-align: left; font: 400 14px 'IBM Plex Sans', sans-serif; position: absolute; left: 1124px;top: 857px;}
+ .group-572 {width: 134px; height: 36px; position: static;}
+ .rectangle-44 {background: #ffffff; border-radius: 4px; border-style: solid; border-color: #b6b6b8; border-width: 0.8px; width: 134px; height: 36px; position: absolute; left: 917px;top: 92px;}
+ .leave-group {color: #88898a; text-align: left; font: 500 15px 'IBM Plex Sans', sans-serif; position: absolute; left: 955px;top: 100px;}
+ .outline-exit-to-app-24-px {position: absolute; left: 927px;top: 99px; overflow: visible;}
+ .subtract {position: absolute; left: 1202px;top: 857px; overflow: visible;}
+ .rectangle3 {background: #000000; opacity: 0.6000000238418579; width: 1440px; height: 1024px; position: absolute; left: 0px;top: 0px;}
+ .group-612 {position: absolute; inset: 0;}
+ .group-3 {width: 736px; height: 457px; position: static;}
+ .rectangle4 {background: #ffffff; border-radius: 8px; width: 736px; height: 457px; position: absolute; left: 352px;top: 186px; box-shadow: 0px 8px 24px 0px rgba(0, 0, 0, 0.25);}
+ .forgot-password {color: #000000; text-align: center; font: 500 12px/16px 'IBM Plex Sans', sans-serif; position: absolute; left: 387px;top: 596px; width: 317px;}
+ .group-32 {width: 320px; height: 320px; position: static;}
+ .atg-illustration {width: 320px; height: 320px; position: absolute; left: 732px;top: 315px; overflow: hidden;}
+ ._513049-pi-8-x-2-j-876 {position: absolute; inset: 0;}
+ .fill-4 {position: absolute; left: 73.99px;top: 73.24px; overflow: visible;}
+ .fill-5 {position: absolute; left: 231.75px;top: 146.52px; overflow: visible;}
+ .fill-6 {position: absolute; left: 266.77px;top: 255.05px; overflow: visible;}
+ .fill-7 {position: absolute; left: 270.41px;top: 267.06px; overflow: visible;}
+ .fill-8 {position: absolute; left: 272.12px;top: 266.93px; overflow: visible;}
+ .fill-9 {position: absolute; left: 270.4px;top: 255.24px; overflow: visible;}
+ .fill-10 {position: absolute; left: 274.48px;top: 254.87px; overflow: visible;}
+ .fill-11 {position: absolute; left: 196.22px;top: 146.48px; overflow: visible;}
+ .fill-12 {position: absolute; left: 230.05px;top: 209.64px; overflow: visible;}
+ .fill-13 {position: absolute; left: 235.84px;top: 231.4px; overflow: visible;}
+ .fill-14 {position: absolute; left: 214.11px;top: 181.91px; overflow: visible;}
+ .fill-15 {position: absolute; left: 230.75px;top: 172.04px; overflow: visible;}
+ .fill-16 {position: absolute; left: 213.82px;top: 113.94px; overflow: visible;}
+ .fill-17 {position: absolute; left: 226.33px;top: 204.11px; overflow: visible;}
+ .fill-18 {position: absolute; left: 226.25px;top: 204.05px; overflow: visible;}
+ .fill-19 {position: absolute; left: 227.15px;top: 199.94px; overflow: visible;}
+ .fill-20 {position: absolute; left: 223.23px;top: 201.35px; overflow: visible;}
+ .fill-21 {position: absolute; left: 228.19px;top: 197.41px; overflow: visible;}
+ .fill-22 {position: absolute; left: 228.23px;top: 203.46px; overflow: visible;}
+ .fill-23 {position: absolute; left: 228.39px;top: 205.5px; overflow: visible;}
+ .fill-24 {position: absolute; left: 225.46px;top: 203.32px; overflow: visible;}
+ .fill-25 {position: absolute; left: 223.74px;top: 200.4px; overflow: visible;}
+ .fill-26 {position: absolute; left: 226.15px;top: 200.07px; overflow: visible;}
+ .fill-27 {position: absolute; left: 227.29px;top: 205.42px; overflow: visible;}
+ .fill-28 {position: absolute; left: 226.57px;top: 204.53px; overflow: visible;}
+ .fill-29 {position: absolute; left: 225.53px;top: 202.46px; overflow: visible;}
+ .fill-30 {position: absolute; left: 227.39px;top: 202.26px; overflow: visible;}
+ .fill-31 {position: absolute; left: 225.55px;top: 205.16px; overflow: visible;}
+ .fill-32 {position: absolute; left: 219.23px;top: 203.78px; overflow: visible;}
+ .fill-33 {position: absolute; left: 223.42px;top: 200.58px; overflow: visible;}
+ .fill-34 {position: absolute; left: 227.04px;top: 202.1px; overflow: visible;}
+ .fill-35 {position: absolute; left: 197.68px;top: 208.95px; overflow: visible;}
+ .fill-36 {position: absolute; left: 203.03px;top: 209.6px; overflow: visible;}
+ .fill-37 {position: absolute; left: 223.77px;top: 125.89px; overflow: visible;}
+ .fill-38 {position: absolute; left: 215.84px;top: 182.05px; overflow: visible;}
+ .fill-39 {position: absolute; left: 252.73px;top: 182.05px; overflow: visible;}
+ .fill-40 {position: absolute; left: 230.75px;top: 172.04px; overflow: visible;}
+ .fill-41 {position: absolute; left: 225.55px;top: 161.91px; overflow: visible;}
+ .fill-42 {position: absolute; left: 236.47px;top: 172.57px; overflow: visible;}
+ .fill-43 {position: absolute; left: 229.12px;top: 171.19px; overflow: visible;}
+ .fill-44 {position: absolute; left: 229.22px;top: 175.08px; overflow: visible;}
+ .fill-45 {position: absolute; left: 235.45px;top: 167.33px; overflow: visible;}
+ .fill-46 {position: absolute; left: 226.47px;top: 160.65px; overflow: visible;}
+ .fill-47 {position: absolute; left: 221.64px;top: 164.53px; overflow: visible;}
+ .fill-48 {position: absolute; left: 239.03px;top: 173.83px; overflow: visible;}
+ .fill-49 {position: absolute; left: 238.78px;top: 174.62px; overflow: visible;}
+ .fill-50 {position: absolute; left: 226.7px;top: 168.85px; overflow: visible;}
+ .fill-51 {position: absolute; left: 232.35px;top: 169.65px; overflow: visible;}
+ .fill-52 {position: absolute; left: 196.08px;top: 267.33px; overflow: visible;}
+ .fill-53 {position: absolute; left: 200.77px;top: 268.59px; overflow: visible;}
+ .fill-54 {position: absolute; left: 200.77px;top: 270.3px; overflow: visible;}
+ .fill-55 {position: absolute; left: 211.36px;top: 269.5px; overflow: visible;}
+ .fill-56 {position: absolute; left: 196.18px;top: 273.6px; overflow: visible;}
+ .fill-57 {position: absolute; left: 229.1px;top: 181.61px; overflow: visible;}
+ .fill-58 {position: absolute; left: 198.07px;top: 262.63px; overflow: visible;}
+ .fill-59 {position: absolute; left: 262.9px;top: 254.88px; overflow: visible;}
+ .fill-60 {position: absolute; left: 232.39px;top: 171.4px; overflow: visible;}
+ .fill-61 {position: absolute; left: 227.6px;top: 170.59px; overflow: visible;}
+ .fill-62 {position: absolute; left: 286.69px;top: 275.12px; overflow: visible;}
+ .fill-63 {position: absolute; left: 279.01px;top: 275.12px; overflow: visible;}
+ .group-78 {width: 40.88px; height: 40.88px; position: static;}
+ .mask-2 {position: absolute; left: 213.82px;top: 113.94px; overflow: visible;}
+ .fill-64 {position: absolute; left: 251.93px;top: 141.95px; overflow: visible;}
+ .fill-66 {position: absolute; left: 246.73px;top: 137.08px; overflow: visible;}
+ .fill-67 {position: absolute; left: 245.79px;top: 144.71px; overflow: visible;}
+ .fill-68 {position: absolute; left: 250.75px;top: 145.92px; overflow: visible;}
+ .fill-69 {position: absolute; left: 252.17px;top: 135.42px; overflow: visible;}
+ .fill-70 {position: absolute; left: 252.84px;top: 141.45px; overflow: visible;}
+ .fill-71 {position: absolute; left: 252.01px;top: 144.04px; overflow: visible;}
+ .fill-72 {position: absolute; left: 251.32px;top: 144.39px; overflow: visible;}
+ .fill-73 {position: absolute; left: 252.29px;top: 143.23px; overflow: visible;}
+ .fill-74 {position: absolute; left: 251.9px;top: 143.74px; overflow: visible;}
+ .fill-75 {position: absolute; left: 251.54px;top: 143.85px; overflow: visible;}
+ .fill-76 {position: absolute; left: 251.1px;top: 143.34px; overflow: visible;}
+ .fill-77 {position: absolute; left: 252.46px;top: 141.08px; overflow: visible;}
+ .fill-79 {position: absolute; left: 227.08px;top: 275.12px; overflow: visible;}
+ .fill-80 {position: absolute; left: 222.05px;top: 275.12px; overflow: visible;}
+ .fill-81 {position: absolute; left: 215.14px;top: 145.61px; overflow: visible;}
+ .fill-82 {position: absolute; left: 238.57px;top: 145.61px; overflow: visible;}
+ .group-118 {width: 40.37px; height: 48.25px; position: static;}
+ .mask-4 {position: absolute; left: 196.22px;top: 146.48px; overflow: visible;}
+ .fill-83 {position: absolute; left: 216.27px;top: 192.29px; overflow: visible;}
+ .fill-85 {position: absolute; left: 216.25px;top: 192.31px; overflow: visible;}
+ .fill-86 {position: absolute; left: 208.83px;top: 194.5px; overflow: visible;}
+ .fill-87 {position: absolute; left: 207.86px;top: 192.12px; overflow: visible;}
+ .fill-88 {position: absolute; left: 207.41px;top: 192.33px; overflow: visible;}
+ .fill-89 {position: absolute; left: 209px;top: 193.99px; overflow: visible;}
+ .fill-90 {position: absolute; left: 211.34px;top: 194.08px; overflow: visible;}
+ .fill-91 {position: absolute; left: 206.75px;top: 192.96px; overflow: visible;}
+ .fill-92 {position: absolute; left: 206.32px;top: 193.94px; overflow: visible;}
+ .fill-93 {position: absolute; left: 208.49px;top: 192.91px; overflow: visible;}
+ .fill-94 {position: absolute; left: 210.19px;top: 193.09px; overflow: visible;}
+ .fill-95 {position: absolute; left: 206.23px;top: 194.13px; overflow: visible;}
+ .fill-96 {position: absolute; left: 205.68px;top: 192.99px; overflow: visible;}
+ .fill-97 {position: absolute; left: 210.36px;top: 194.47px; overflow: visible;}
+ .fill-98 {position: absolute; left: 209.97px;top: 194.15px; overflow: visible;}
+ .fill-99 {position: absolute; left: 209.44px;top: 194.73px; overflow: visible;}
+ .fill-100 {position: absolute; left: 208.16px;top: 193.73px; overflow: visible;}
+ .fill-101 {position: absolute; left: 207.61px;top: 194.55px; overflow: visible;}
+ .fill-102 {position: absolute; left: 207.89px;top: 193.7px; overflow: visible;}
+ .fill-103 {position: absolute; left: 208.07px;top: 192.74px; overflow: visible;}
+ .fill-104 {position: absolute; left: 207.59px;top: 193.68px; overflow: visible;}
+ .fill-105 {position: absolute; left: 206.64px;top: 193.55px; overflow: visible;}
+ .fill-106 {position: absolute; left: 206.99px;top: 192.91px; overflow: visible;}
+ .fill-107 {position: absolute; left: 206.52px;top: 193.05px; overflow: visible;}
+ .fill-108 {position: absolute; left: 206.1px;top: 193.65px; overflow: visible;}
+ .fill-109 {position: absolute; left: 205.4px;top: 193.46px; overflow: visible;}
+ .fill-110 {position: absolute; left: 208.35px;top: 188.93px; overflow: visible;}
+ .fill-111 {position: absolute; left: 208.69px;top: 194.67px; overflow: visible;}
+ .fill-112 {position: absolute; left: 206.73px;top: 194.11px; overflow: visible;}
+ .fill-113 {position: absolute; left: 207.27px;top: 193.75px; overflow: visible;}
+ .fill-114 {position: absolute; left: 208.89px;top: 187.64px; overflow: visible;}
+ .fill-115 {position: absolute; left: 208.16px;top: 191.93px; overflow: visible;}
+ .fill-116 {position: absolute; left: 205.71px;top: 186.07px; overflow: visible;}
+ .fill-117 {position: absolute; left: 205.81px;top: 180.8px; overflow: visible;}
+ .fill-119 {position: absolute; left: 30.8px;top: 129.28px; overflow: visible;}
+ .fill-120 {position: absolute; left: 37.15px;top: 133.7px; overflow: visible;}
+ .fill-121 {position: absolute; left: 48.86px;top: 136.21px; overflow: visible;}
+ .fill-122 {position: absolute; left: 37px;top: 142.53px; overflow: visible;}
+ .fill-123 {position: absolute; left: 44.48px;top: 157.15px; overflow: visible;}
+ .fill-124 {position: absolute; left: 62.78px;top: 151.42px; overflow: visible;}
+ .fill-125 {position: absolute; left: 51.29px;top: 177.88px; overflow: visible;}
+ .fill-126 {position: absolute; left: 74.06px;top: 166.37px; overflow: visible;}
+ .fill-127 {position: absolute; left: 53.16px;top: 196.52px; overflow: visible;}
+ .fill-128 {position: absolute; left: 83.71px;top: 192.32px; overflow: visible;}
+ .fill-129 {position: absolute; left: 53.5px;top: 167.58px; overflow: visible;}
+ .group-132 {width: 20.83px; height: 44.41px; position: static;}
+ .mask-6 {position: absolute; left: 53.5px;top: 167.58px; overflow: visible;}
+ .fill-130 {position: absolute; left: 68.37px;top: 196.36px; overflow: visible;}
+ .fill-133 {position: absolute; left: 59.41px;top: 170.89px; overflow: visible;}
+ .fill-134 {position: absolute; left: 57px;top: 179.7px; overflow: visible;}
+ .fill-135 {position: absolute; left: 63.74px;top: 180.62px; overflow: visible;}
+ .fill-136 {position: absolute; left: 58.39px;top: 192.54px; overflow: visible;}
+ .fill-137 {position: absolute; left: 66.7px;top: 195.53px; overflow: visible;}
+ .fill-138 {position: absolute; left: 37.61px;top: 183.96px; overflow: visible;}
+ .fill-139 {position: absolute; left: 48.57px;top: 187.61px; overflow: visible;}
+ .fill-140 {position: absolute; left: 44.2px;top: 200.25px; overflow: visible;}
+ .fill-141 {position: absolute; left: 58.94px;top: 194.56px; overflow: visible;}
+ .fill-142 {position: absolute; left: 53.04px;top: 212.35px; overflow: visible;}
+ .fill-143 {position: absolute; left: 68.45px;top: 205.56px; overflow: visible;}
+ .fill-144 {position: absolute; left: 168.02px;top: 23.69px; overflow: visible;}
+ .fill-145 {position: absolute; left: 173.27px;top: 29.98px; overflow: visible;}
+ .fill-146 {position: absolute; left: 174.33px;top: 36.97px; overflow: visible;}
+ .fill-147 {position: absolute; left: 167.81px;top: 41.69px; overflow: visible;}
+ .fill-148 {position: absolute; left: 123.13px;top: 34.9px; overflow: visible;}
+ .fill-149 {position: absolute; left: 136.6px;top: 41.4px; overflow: visible;}
+ .fill-150 {position: absolute; left: 201.66px;top: 47.96px; overflow: visible;}
+ .fill-151 {position: absolute; left: 187.4px;top: 59.17px; overflow: visible;}
+ .fill-152 {position: absolute; left: 168.73px;top: 75.46px; overflow: visible;}
+ .fill-153 {position: absolute; left: 158.93px;top: 60.89px; overflow: visible;}
+ .fill-154 {position: absolute; left: 153.71px;top: 91.79px; overflow: visible;}
+ .fill-155 {position: absolute; left: 141.38px;top: 82.92px; overflow: visible;}
+ .fill-156 {position: absolute; left: 140.07px;top: 111.63px; overflow: visible;}
+ .fill-157 {position: absolute; left: 160.71px;top: 37.43px; overflow: visible;}
+ .fill-158 {position: absolute; left: 165.56px;top: 39.21px; overflow: visible;}
+ .fill-159 {position: absolute; left: 189.82px;top: 48.4px; overflow: visible;}
+ .fill-160 {position: absolute; left: 183.59px;top: 44.36px; overflow: visible;}
+ .fill-161 {position: absolute; left: 178.89px;top: 58.93px; overflow: visible;}
+ .fill-162 {position: absolute; left: 173.18px;top: 53.42px; overflow: visible;}
+ .fill-163 {position: absolute; left: 169.04px;top: 68.68px; overflow: visible;}
+ .fill-164 {position: absolute; left: 80.96px;top: 50.63px; overflow: visible;}
+ .fill-165 {position: absolute; left: 68.39px;top: 38.68px; overflow: visible;}
+ .fill-166 {position: absolute; left: 74.13px;top: 38.68px; overflow: visible;}
+ .fill-167 {position: absolute; left: 81.09px;top: 50.63px; overflow: visible;}
+ .fill-168 {position: absolute; left: 80.96px;top: 50.63px; overflow: visible;}
+ .fill-169 {position: absolute; left: 88.06px;top: 75.9px; overflow: visible;}
+ .fill-170 {position: absolute; left: 103.22px;top: 76.03px; overflow: visible;}
+ .fill-171 {position: absolute; left: 88.06px;top: 121.57px; overflow: visible;}
+ .fill-172 {position: absolute; left: 103.22px;top: 121.7px; overflow: visible;}
+ .fill-173 {position: absolute; left: 88.06px;top: 179.85px; overflow: visible;}
+ .fill-174 {position: absolute; left: 103.22px;top: 179.99px; overflow: visible;}
+ .fill-175 {position: absolute; left: 152.86px;top: 93.66px; overflow: visible;}
+ .fill-176 {position: absolute; left: 88.06px;top: 93.79px; overflow: visible;}
+ .fill-177 {position: absolute; left: 88.06px;top: 139.46px; overflow: visible;}
+ .fill-178 {position: absolute; left: 112.27px;top: 44.29px; overflow: visible;}
+ .fill-179 {position: absolute; left: 106.69px;top: 43.43px; overflow: visible;}
+ .fill-180 {position: absolute; left: 156.69px;top: 120.53px; overflow: visible;}
+ .fill-181 {position: absolute; left: 101.28px;top: 124.82px; overflow: visible;}
+ .fill-182 {position: absolute; left: 168.4px;top: 98.72px; overflow: visible;}
+ .fill-183 {position: absolute; left: 122.1px;top: 128.11px; overflow: visible;}
+ .fill-184 {position: absolute; left: 122.1px;top: 128.11px; overflow: visible;}
+ .group-240 {width: 30.47px; height: 18.04px; position: static;}
+ .mask-8 {position: absolute; left: 122.1px;top: 128.11px; overflow: visible;}
+ .fill-185 {position: absolute; left: 135.08px;top: 135.26px; overflow: visible;}
+ .fill-187 {position: absolute; left: 132.91px;top: 133.88px; overflow: visible;}
+ .fill-188 {position: absolute; left: 134.41px;top: 132.81px; overflow: visible;}
+ .fill-189 {position: absolute; left: 137.07px;top: 136.08px; overflow: visible;}
+ .fill-190 {position: absolute; left: 136.27px;top: 135.75px; overflow: visible;}
+ .fill-191 {position: absolute; left: 134.85px;top: 134.66px; overflow: visible;}
+ .fill-192 {position: absolute; left: 136.04px;top: 133.88px; overflow: visible;}
+ .fill-193 {position: absolute; left: 135.77px;top: 136.52px; overflow: visible;}
+ .fill-194 {position: absolute; left: 135px;top: 136.96px; overflow: visible;}
+ .fill-195 {position: absolute; left: 136.54px;top: 132.51px; overflow: visible;}
+ .fill-196 {position: absolute; left: 136.29px;top: 133.83px; overflow: visible;}
+ .fill-197 {position: absolute; left: 134.18px;top: 136.23px; overflow: visible;}
+ .fill-198 {position: absolute; left: 134.21px;top: 135.19px; overflow: visible;}
+ .fill-199 {position: absolute; left: 129.66px;top: 136.88px; overflow: visible;}
+ .fill-200 {position: absolute; left: 136.81px;top: 135.16px; overflow: visible;}
+ .fill-201 {position: absolute; left: 135.46px;top: 134.5px; overflow: visible;}
+ .fill-202 {position: absolute; left: 134.29px;top: 136.54px; overflow: visible;}
+ .fill-203 {position: absolute; left: 134.47px;top: 135.64px; overflow: visible;}
+ .fill-204 {position: absolute; left: 134.25px;top: 133.92px; overflow: visible;}
+ .fill-205 {position: absolute; left: 136.79px;top: 132.59px; overflow: visible;}
+ .fill-206 {position: absolute; left: 136.94px;top: 136.11px; overflow: visible;}
+ .fill-207 {position: absolute; left: 137.12px;top: 135.16px; overflow: visible;}
+ .fill-208 {position: absolute; left: 132.59px;top: 136.42px; overflow: visible;}
+ .fill-209 {position: absolute; left: 135.54px;top: 135.37px; overflow: visible;}
+ .fill-210 {position: absolute; left: 137px;top: 135.52px; overflow: visible;}
+ .fill-211 {position: absolute; left: 136.6px;top: 135.94px; overflow: visible;}
+ .fill-212 {position: absolute; left: 136.69px;top: 133.98px; overflow: visible;}
+ .fill-213 {position: absolute; left: 136.63px;top: 134.39px; overflow: visible;}
+ .fill-214 {position: absolute; left: 136.91px;top: 134.59px; overflow: visible;}
+ .fill-215 {position: absolute; left: 136.24px;top: 134.49px; overflow: visible;}
+ .fill-216 {position: absolute; left: 136.34px;top: 134.55px; overflow: visible;}
+ .fill-217 {position: absolute; left: 136.47px;top: 134.95px; overflow: visible;}
+ .fill-218 {position: absolute; left: 135.84px;top: 134.76px; overflow: visible;}
+ .fill-219 {position: absolute; left: 136.1px;top: 135.04px; overflow: visible;}
+ .fill-220 {position: absolute; left: 136.18px;top: 136.05px; overflow: visible;}
+ .fill-221 {position: absolute; left: 136.58px;top: 136.2px; overflow: visible;}
+ .fill-222 {position: absolute; left: 136.19px;top: 136.38px; overflow: visible;}
+ .fill-223 {position: absolute; left: 136.92px;top: 136.45px; overflow: visible;}
+ .fill-224 {position: absolute; left: 137.11px;top: 136.64px; overflow: visible;}
+ .fill-225 {position: absolute; left: 136.11px;top: 136.93px; overflow: visible;}
+ .fill-226 {position: absolute; left: 136.34px;top: 136.35px; overflow: visible;}
+ .fill-227 {position: absolute; left: 136.43px;top: 136.67px; overflow: visible;}
+ .fill-228 {position: absolute; left: 135.9px;top: 133.92px; overflow: visible;}
+ .fill-229 {position: absolute; left: 136.74px;top: 134.88px; overflow: visible;}
+ .fill-230 {position: absolute; left: 131.88px;top: 134.67px; overflow: visible;}
+ .fill-231 {position: absolute; left: 136.79px;top: 135.89px; overflow: visible;}
+ .fill-232 {position: absolute; left: 136.48px;top: 133.03px; overflow: visible;}
+ .fill-233 {position: absolute; left: 136.69px;top: 133.76px; overflow: visible;}
+ .fill-234 {position: absolute; left: 135.61px;top: 136.51px; overflow: visible;}
+ .fill-235 {position: absolute; left: 136.13px;top: 133.77px; overflow: visible;}
+ .fill-236 {position: absolute; left: 137.12px;top: 134.62px; overflow: visible;}
+ .fill-237 {position: absolute; left: 135.37px;top: 136.8px; overflow: visible;}
+ .fill-238 {position: absolute; left: 136.59px;top: 131.6px; overflow: visible;}
+ .fill-239 {position: absolute; left: 134.85px;top: 131.17px; overflow: visible;}
+ .fill-241 {position: absolute; left: 125.56px;top: 129.27px; overflow: visible;}
+ .fill-242 {position: absolute; left: 147.03px;top: 109.08px; overflow: visible;}
+ .fill-243 {position: absolute; left: 159.4px;top: 234.01px; overflow: visible;}
+ .fill-244 {position: absolute; left: 102.17px;top: 175.3px; overflow: visible;}
+ .fill-245 {position: absolute; left: 148px;top: 151.85px; overflow: visible;}
+ .group-330 {width: 28.53px; height: 95.35px; position: static;}
+ .mask-10 {position: absolute; left: 148px;top: 151.85px; overflow: visible;}
+ .fill-246 {position: absolute; left: 163.07px;top: 203.36px; overflow: visible;}
+ .fill-248 {position: absolute; left: 161.4px;top: 207.91px; overflow: visible;}
+ .fill-249 {position: absolute; left: 161.97px;top: 199.76px; overflow: visible;}
+ .fill-250 {position: absolute; left: 163.28px;top: 206.13px; overflow: visible;}
+ .fill-251 {position: absolute; left: 162.82px;top: 191.71px; overflow: visible;}
+ .fill-252 {position: absolute; left: 161.79px;top: 187.58px; overflow: visible;}
+ .fill-253 {position: absolute; left: 165.49px;top: 193px; overflow: visible;}
+ .fill-254 {position: absolute; left: 168.61px;top: 189.73px; overflow: visible;}
+ .fill-255 {position: absolute; left: 160.03px;top: 186.44px; overflow: visible;}
+ .fill-256 {position: absolute; left: 162.5px;top: 183.75px; overflow: visible;}
+ .fill-257 {position: absolute; left: 163.71px;top: 186.05px; overflow: visible;}
+ .fill-258 {position: absolute; left: 166.26px;top: 194.13px; overflow: visible;}
+ .fill-259 {position: absolute; left: 160.93px;top: 186.23px; overflow: visible;}
+ .fill-260 {position: absolute; left: 161.9px;top: 193.72px; overflow: visible;}
+ .fill-261 {position: absolute; left: 161.74px;top: 188.05px; overflow: visible;}
+ .fill-262 {position: absolute; left: 159.92px;top: 190.97px; overflow: visible;}
+ .fill-263 {position: absolute; left: 162.45px;top: 194.74px; overflow: visible;}
+ .fill-264 {position: absolute; left: 165.36px;top: 191.82px; overflow: visible;}
+ .fill-265 {position: absolute; left: 162.81px;top: 197.5px; overflow: visible;}
+ .fill-266 {position: absolute; left: 162.69px;top: 176.2px; overflow: visible;}
+ .fill-267 {position: absolute; left: 160.75px;top: 184.87px; overflow: visible;}
+ .fill-268 {position: absolute; left: 159.89px;top: 182.52px; overflow: visible;}
+ .fill-269 {position: absolute; left: 160.32px;top: 184.61px; overflow: visible;}
+ .fill-270 {position: absolute; left: 159.85px;top: 186.86px; overflow: visible;}
+ .fill-271 {position: absolute; left: 161.13px;top: 188.87px; overflow: visible;}
+ .fill-272 {position: absolute; left: 160.51px;top: 185.82px; overflow: visible;}
+ .fill-273 {position: absolute; left: 161.04px;top: 187.44px; overflow: visible;}
+ .fill-274 {position: absolute; left: 159.88px;top: 192.05px; overflow: visible;}
+ .fill-275 {position: absolute; left: 160.24px;top: 188.24px; overflow: visible;}
+ .fill-276 {position: absolute; left: 160.18px;top: 187.77px; overflow: visible;}
+ .fill-277 {position: absolute; left: 160.25px;top: 185.43px; overflow: visible;}
+ .fill-278 {position: absolute; left: 160.07px;top: 192.22px; overflow: visible;}
+ .fill-279 {position: absolute; left: 163.61px;top: 190.31px; overflow: visible;}
+ .fill-280 {position: absolute; left: 161.26px;top: 178.68px; overflow: visible;}
+ .fill-281 {position: absolute; left: 165.52px;top: 175.02px; overflow: visible;}
+ .fill-282 {position: absolute; left: 161.25px;top: 182.54px; overflow: visible;}
+ .fill-283 {position: absolute; left: 161.12px;top: 180.11px; overflow: visible;}
+ .fill-284 {position: absolute; left: 160.39px;top: 179.4px; overflow: visible;}
+ .fill-285 {position: absolute; left: 161.03px;top: 178.98px; overflow: visible;}
+ .fill-286 {position: absolute; left: 160.94px;top: 182.22px; overflow: visible;}
+ .fill-287 {position: absolute; left: 159.86px;top: 184.15px; overflow: visible;}
+ .fill-288 {position: absolute; left: 160.5px;top: 186.36px; overflow: visible;}
+ .fill-289 {position: absolute; left: 160.21px;top: 181.78px; overflow: visible;}
+ .fill-290 {position: absolute; left: 160.79px;top: 183.37px; overflow: visible;}
+ .fill-291 {position: absolute; left: 160.8px;top: 185.05px; overflow: visible;}
+ .fill-292 {position: absolute; left: 159.86px;top: 180.77px; overflow: visible;}
+ .fill-293 {position: absolute; left: 159.85px;top: 185.54px; overflow: visible;}
+ .fill-294 {position: absolute; left: 159.9px;top: 185.11px; overflow: visible;}
+ .fill-295 {position: absolute; left: 159.8px;top: 183.31px; overflow: visible;}
+ .fill-296 {position: absolute; left: 159.89px;top: 183.05px; overflow: visible;}
+ .fill-297 {position: absolute; left: 160.62px;top: 182.94px; overflow: visible;}
+ .fill-298 {position: absolute; left: 160.12px;top: 182px; overflow: visible;}
+ .fill-299 {position: absolute; left: 160.13px;top: 181.57px; overflow: visible;}
+ .fill-300 {position: absolute; left: 159.97px;top: 180.54px; overflow: visible;}
+ .fill-301 {position: absolute; left: 160.26px;top: 180.32px; overflow: visible;}
+ .fill-302 {position: absolute; left: 161.62px;top: 178.52px; overflow: visible;}
+ .fill-303 {position: absolute; left: 160.26px;top: 174.05px; overflow: visible;}
+ .fill-304 {position: absolute; left: 160.28px;top: 172.9px; overflow: visible;}
+ .fill-305 {position: absolute; left: 165.31px;top: 180.81px; overflow: visible;}
+ .fill-306 {position: absolute; left: 159.95px;top: 177.03px; overflow: visible;}
+ .fill-307 {position: absolute; left: 161.37px;top: 169.39px; overflow: visible;}
+ .fill-308 {position: absolute; left: 165.14px;top: 186.26px; overflow: visible;}
+ .fill-309 {position: absolute; left: 161.51px;top: 188.18px; overflow: visible;}
+ .fill-310 {position: absolute; left: 160.59px;top: 177.17px; overflow: visible;}
+ .fill-311 {position: absolute; left: 163.72px;top: 168.72px; overflow: visible;}
+ .fill-312 {position: absolute; left: 159.93px;top: 180.55px; overflow: visible;}
+ .fill-313 {position: absolute; left: 160.63px;top: 183.16px; overflow: visible;}
+ .fill-314 {position: absolute; left: 161.29px;top: 174.06px; overflow: visible;}
+ .fill-315 {position: absolute; left: 160.74px;top: 176.78px; overflow: visible;}
+ .fill-316 {position: absolute; left: 160.09px;top: 179.65px; overflow: visible;}
+ .fill-317 {position: absolute; left: 161.33px;top: 178.06px; overflow: visible;}
+ .fill-318 {position: absolute; left: 161.18px;top: 178.85px; overflow: visible;}
+ .fill-319 {position: absolute; left: 162.49px;top: 179.11px; overflow: visible;}
+ .fill-320 {position: absolute; left: 160.33px;top: 181.36px; overflow: visible;}
+ .fill-321 {position: absolute; left: 160.89px;top: 181.67px; overflow: visible;}
+ .fill-322 {position: absolute; left: 160.69px;top: 178.56px; overflow: visible;}
+ .fill-323 {position: absolute; left: 160.16px;top: 178.18px; overflow: visible;}
+ .fill-324 {position: absolute; left: 160.77px;top: 177.95px; overflow: visible;}
+ .fill-325 {position: absolute; left: 160.97px;top: 177.64px; overflow: visible;}
+ .fill-326 {position: absolute; left: 159.98px;top: 177.44px; overflow: visible;}
+ .fill-327 {position: absolute; left: 160.25px;top: 176.09px; overflow: visible;}
+ .fill-328 {position: absolute; left: 159.96px;top: 175.29px; overflow: visible;}
+ .fill-329 {position: absolute; left: 160px;top: 180.23px; overflow: visible;}
+ .fill-331 {position: absolute; left: 100.84px;top: 160.83px; overflow: visible;}
+ .fill-332 {position: absolute; left: 133.49px;top: 129.46px; overflow: visible;}
+ .group-369 {width: 32.83px; height: 38.52px; position: static;}
+ .mask-12 {position: absolute; left: 133.49px;top: 129.5px; overflow: visible;}
+ .fill-333 {position: absolute; left: 164.59px;top: 163.31px; overflow: visible;}
+ .fill-335 {position: absolute; left: 165.67px;top: 163.53px; overflow: visible;}
+ .fill-336 {position: absolute; left: 164.96px;top: 163.23px; overflow: visible;}
+ .fill-337 {position: absolute; left: 165.16px;top: 164.64px; overflow: visible;}
+ .fill-338 {position: absolute; left: 163.87px;top: 162.54px; overflow: visible;}
+ .fill-339 {position: absolute; left: 162.74px;top: 161.61px; overflow: visible;}
+ .fill-340 {position: absolute; left: 162.75px;top: 160.23px; overflow: visible;}
+ .fill-341 {position: absolute; left: 163.4px;top: 163.47px; overflow: visible;}
+ .fill-342 {position: absolute; left: 162.92px;top: 162.01px; overflow: visible;}
+ .fill-343 {position: absolute; left: 163.11px;top: 160.81px; overflow: visible;}
+ .fill-344 {position: absolute; left: 165.34px;top: 164.42px; overflow: visible;}
+ .fill-345 {position: absolute; left: 160.6px;top: 161.88px; overflow: visible;}
+ .fill-346 {position: absolute; left: 163.02px;top: 163.96px; overflow: visible;}
+ .fill-347 {position: absolute; left: 164.52px;top: 160.41px; overflow: visible;}
+ .fill-348 {position: absolute; left: 164.45px;top: 164.09px; overflow: visible;}
+ .fill-349 {position: absolute; left: 164.41px;top: 162.82px; overflow: visible;}
+ .fill-350 {position: absolute; left: 165.25px;top: 159.95px; overflow: visible;}
+ .fill-351 {position: absolute; left: 165.4px;top: 161.29px; overflow: visible;}
+ .fill-352 {position: absolute; left: 165.42px;top: 161.73px; overflow: visible;}
+ .fill-353 {position: absolute; left: 164.79px;top: 162.86px; overflow: visible;}
+ .fill-354 {position: absolute; left: 165.35px;top: 162.44px; overflow: visible;}
+ .fill-355 {position: absolute; left: 164.74px;top: 163.52px; overflow: visible;}
+ .fill-356 {position: absolute; left: 164.9px;top: 160.48px; overflow: visible;}
+ .fill-357 {position: absolute; left: 164.19px;top: 160.4px; overflow: visible;}
+ .fill-358 {position: absolute; left: 165.12px;top: 161.58px; overflow: visible;}
+ .fill-359 {position: absolute; left: 163.76px;top: 163.74px; overflow: visible;}
+ .fill-360 {position: absolute; left: 163.97px;top: 160.75px; overflow: visible;}
+ .fill-361 {position: absolute; left: 165.22px;top: 160.55px; overflow: visible;}
+ .fill-362 {position: absolute; left: 163.71px;top: 159.93px; overflow: visible;}
+ .fill-363 {position: absolute; left: 164.76px;top: 159.99px; overflow: visible;}
+ .fill-364 {position: absolute; left: 164.6px;top: 161.44px; overflow: visible;}
+ .fill-365 {position: absolute; left: 165.6px;top: 161.59px; overflow: visible;}
+ .fill-366 {position: absolute; left: 165.01px;top: 162.26px; overflow: visible;}
+ .fill-367 {position: absolute; left: 165.67px;top: 162.04px; overflow: visible;}
+ .fill-368 {position: absolute; left: 164.17px;top: 160.22px; overflow: visible;}
+ .group-383 {width: 60.9px; height: 59.99px; position: static;}
+ .mask-14 {position: absolute; left: 100.84px;top: 160.83px; overflow: visible;}
+ .fill-370 {position: absolute; left: 117.06px;top: 202.35px; overflow: visible;}
+ .fill-372 {position: absolute; left: 135.96px;top: 200.71px; overflow: visible;}
+ .fill-373 {position: absolute; left: 122.75px;top: 201.14px; overflow: visible;}
+ .fill-374 {position: absolute; left: 125.64px;top: 204.94px; overflow: visible;}
+ .fill-375 {position: absolute; left: 126.93px;top: 197.12px; overflow: visible;}
+ .fill-376 {position: absolute; left: 119.3px;top: 203.02px; overflow: visible;}
+ .fill-377 {position: absolute; left: 131.51px;top: 200.54px; overflow: visible;}
+ .fill-378 {position: absolute; left: 121.85px;top: 205.07px; overflow: visible;}
+ .fill-379 {position: absolute; left: 130.53px;top: 205.12px; overflow: visible;}
+ .fill-380 {position: absolute; left: 114.42px;top: 202.59px; overflow: visible;}
+ .fill-381 {position: absolute; left: 114.29px;top: 203.97px; overflow: visible;}
+ .fill-382 {position: absolute; left: 115.96px;top: 201.57px; overflow: visible;}
+ .fill-384 {position: absolute; left: 134.4px;top: 161.19px; overflow: visible;}
+ .fill-385 {position: absolute; left: 113.94px;top: 165.54px; overflow: visible;}
+ .fill-386 {position: absolute; left: 130.6px;top: 205.34px; overflow: visible;}
+ .fill-387 {position: absolute; left: 130.39px;top: 205.12px; overflow: visible;}
+ .fill-388 {position: absolute; left: 155.04px;top: 191.79px; overflow: visible;}
+ .fill-389 {position: absolute; left: 150.42px;top: 120.37px; overflow: visible;}
+ .fill-390 {position: absolute; left: 152.23px;top: 120.37px; overflow: visible;}
+ .fill-391 {position: absolute; left: 152.06px;top: 112.6px; overflow: visible;}
+ .fill-392 {position: absolute; left: 149.68px;top: 120.03px; overflow: visible;}
+ .fill-393 {position: absolute; left: 159.02px;top: 121.84px; overflow: visible;}
+ .fill-394 {position: absolute; left: 157.49px;top: 124.32px; overflow: visible;}
+ .fill-395 {position: absolute; left: 150.46px;top: 120.8px; overflow: visible;}
+ .fill-396 {position: absolute; left: 150.78px;top: 121.3px; overflow: visible;}
+ .fill-397 {position: absolute; left: 156.01px;top: 119.4px; overflow: visible;}
+ .fill-398 {position: absolute; left: 145.32px;top: 104.79px; overflow: visible;}
+ .fill-399 {position: absolute; left: 151.07px;top: 110.99px; overflow: visible;}
+ .fill-400 {position: absolute; left: 159.45px;top: 248.74px; overflow: visible;}
+ .fill-401 {position: absolute; left: 159.52px;top: 257.86px; overflow: visible;}
+ .fill-402 {position: absolute; left: 175.05px;top: 253.25px; overflow: visible;}
+ .fill-403 {position: absolute; left: 170.76px;top: 250.22px; overflow: visible;}
+ .fill-404 {position: absolute; left: 170.76px;top: 251.39px; overflow: visible;}
+ .fill-405 {position: absolute; left: 159.52px;top: 254.57px; overflow: visible;}
+ .fill-406 {position: absolute; left: 162.1px;top: 250.21px; overflow: visible;}
+ .fill-407 {position: absolute; left: 90.87px;top: 166.77px; overflow: visible;}
+ .fill-408 {position: absolute; left: 91.97px;top: 168.05px; overflow: visible;}
+ .fill-409 {position: absolute; left: 95.8px;top: 177.32px; overflow: visible;}
+ .fill-410 {position: absolute; left: 101.19px;top: 180.78px; overflow: visible;}
+ .fill-411 {position: absolute; left: 100.52px;top: 179.83px; overflow: visible;}
+ .fill-412 {position: absolute; left: 104.94px;top: 170.41px; overflow: visible;}
+ .fill-413 {position: absolute; left: 106.99px;top: 173.91px; overflow: visible;}
+ .fill-414 {position: absolute; left: 100.95px;top: 129.6px; overflow: visible;}
+ .fill-415 {position: absolute; left: 96.68px;top: 129.87px; overflow: visible;}
+ .fill-416 {position: absolute; left: 97.65px;top: 126.37px; overflow: visible;}
+ .fill-417 {position: absolute; left: 98.63px;top: 122.97px; overflow: visible;}
+ .fill-418 {position: absolute; left: 98.71px;top: 129.71px; overflow: visible;}
+ .fill-419 {position: absolute; left: 99.47px;top: 126.08px; overflow: visible;}
+ .fill-420 {position: absolute; left: 102.61px;top: 132.29px; overflow: visible;}
+ .fill-421 {position: absolute; left: 104.68px;top: 127.8px; overflow: visible;}
+ .fill-422 {position: absolute; left: 150.81px;top: 122.65px; overflow: visible;}
+ .fill-423 {position: absolute; left: 148.21px;top: 109.04px; overflow: visible;}
+ .fill-424 {position: absolute; left: 147.49px;top: 126.29px; overflow: visible;}
+ .group-436 {width: 35.43px; height: 22.41px; position: static;}
+ .mask-16 {position: absolute; left: 147.49px;top: 126.29px; overflow: visible;}
+ .fill-425 {position: absolute; left: 175.46px;top: 134.87px; overflow: visible;}
+ .fill-427 {position: absolute; left: 180.72px;top: 133.8px; overflow: visible;}
+ .fill-428 {position: absolute; left: 176.55px;top: 133.99px; overflow: visible;}
+ .fill-429 {position: absolute; left: 180.44px;top: 136.91px; overflow: visible;}
+ .fill-430 {position: absolute; left: 167.89px;top: 135.93px; overflow: visible;}
+ .fill-431 {position: absolute; left: 166.52px;top: 136.72px; overflow: visible;}
+ .fill-432 {position: absolute; left: 172.1px;top: 136.21px; overflow: visible;}
+ .fill-433 {position: absolute; left: 164.6px;top: 135.14px; overflow: visible;}
+ .fill-434 {position: absolute; left: 168.1px;top: 136.7px; overflow: visible;}
+ .fill-435 {position: absolute; left: 163.02px;top: 135.9px; overflow: visible;}
+ .fill-437 {position: absolute; left: 156.71px;top: 120.8px; overflow: visible;}
+ .fill-438 {position: absolute; left: 161.43px;top: 121.66px; overflow: visible;}
+ .fill-439 {position: absolute; left: 170.22px;top: 129.27px; overflow: visible;}
+ .fill-440 {position: absolute; left: 140.13px;top: 258.84px; overflow: visible;}
+ .fill-441 {position: absolute; left: 144.49px;top: 258.84px; overflow: visible;}
+ .fill-442 {position: absolute; left: 181.36px;top: 258.84px; overflow: visible;}
+ .fill-443 {position: absolute; left: 160.8px;top: 120.03px; overflow: visible;}
+ .fill-444 {position: absolute; left: 176.32px;top: 81.18px; overflow: visible;}
+ .group-447 {width: 31.02px; height: 31.02px; position: static;}
+ .mask-18 {position: absolute; left: 176.32px;top: 81.18px; overflow: visible;}
+ .fill-445 {position: absolute; left: 205.87px;top: 100.68px; overflow: visible;}
+ .fill-448 {position: absolute; left: 183.59px;top: 89.71px; overflow: visible;}
+ .fill-449 {position: absolute; left: 181.02px;top: 105.42px; overflow: visible;}
+ .fill-450 {position: absolute; left: 174.45px;top: 100.69px; overflow: visible;}
+ .fill-451 {position: absolute; left: 177.59px;top: 102.7px; overflow: visible;}
+ .fill-452 {position: absolute; left: 179.57px;top: 102.98px; overflow: visible;}
+ .fill-453 {position: absolute; left: 182.88px;top: 105.52px; overflow: visible;}
+ .fill-454 {position: absolute; left: 87.07px;top: 213.1px; overflow: visible;}
+ .fill-455 {position: absolute; left: 119.53px;top: 217.53px; overflow: visible;}
+ .image-478 {width: 28.82px; height: 47.25px; position: absolute; left: 154.32px;top: 20.4px;}
+ .image-479 {width: 19.6px; height: 38.49px; position: absolute; left: 182.58px;top: 23.16px;}
+ .image-480 {width: 16.07px; height: 7.16px; position: absolute; left: 186.12px;top: 38.37px;}
+ .image-481 {width: 24.67px; height: 9.77px; position: absolute; left: 177.67px;top: 102.72px;}
+ .image-482 {width: 27.59px; height: 8.85px; position: absolute; left: 177.21px;top: 100.27px;}
+ .image-483 {width: 23.29px; height: 16.22px; position: absolute; left: 136.81px;top: 203.64px;}
+ .image-484 {width: 22.21px; height: 30.04px; position: absolute; left: 137.73px;top: 174.61px;}
+ .image-485 {width: 19.91px; height: 61.53px; position: absolute; left: 140.34px;top: 138.97px;}
+ .image-486 {width: 22.21px; height: 13.3px; position: absolute; left: 136.81px;top: 131.29px;}
+ .image-487 {width: 23.29px; height: 3.62px; position: absolute; left: 136.81px;top: 130.83px;}
+ .image-488 {width: 9.62px; height: 6.7px; position: absolute; left: 127.75px;top: 136.98px;}
+ .image-489 {width: 19.75px; height: 20.98px; position: absolute; left: 159.7px;top: 139.28px;}
+ .image-490 {width: 20.06px; height: 7.77px; position: absolute; left: 160.16px;top: 136.98px;}
+ .image-491 {width: 29.12px; height: 8.08px; position: absolute; left: 220.22px;top: 146.96px;}
+ .image-492 {width: 34.65px; height: 8.85px; position: absolute; left: 216.68px;top: 142.66px;}
+ .image-493 {width: 36.5px; height: 6.39px; position: absolute; left: 215.15px;top: 136.98px;}
+ .image-494 {width: 23.44px; height: 23.29px; position: absolute; left: 45.42px;top: 201.34px;}
+ .image-495 {width: 16.07px; height: 8.08px; position: absolute; left: 45.42px;top: 209.02px;}
+ .image-496 {width: 23.44px; height: 28.51px; position: absolute; left: 45.42px;top: 192.12px;}
+ .image-497 {width: 13.76px; height: 38.34px; position: absolute; left: 53.1px;top: 169.39px;}
+ .image-498 {width: 4.85px; height: 12.38px; position: absolute; left: 57.55px;top: 167.39px;}
+ .image-499 {width: 23.44px; height: 18.06px; position: absolute; left: 45.42px;top: 189.51px;}
+ .image-500 {width: 22.98px; height: 20.67px; position: absolute; left: 45.57px;top: 169.85px;}
+ .image-501 {width: 10.08px; height: 24.21px; position: absolute; left: 195.95px;top: 170.62px;}
+ .image-502 {width: 20.83px; height: 24.36px; position: absolute; left: 251.55px;top: 170.62px;}
+ .image-503 {width: 8.85px; height: 27.43px; position: absolute; left: 37.12px;top: 183.67px;}
+ .image-504 {width: 6.7px; height: 9.77px; position: absolute; left: 38.66px;top: 183.83px;}
+ .image-505 {width: 19.6px; height: 12.84px; position: absolute; left: 229.74px;top: 235.59px;}
+ .image-506 {width: 20.98px; height: 19.6px; position: absolute; left: 229.74px;top: 216.85px;}
+ .image-507 {width: 20.06px; height: 17.6px; position: absolute; left: 230.51px;top: 217.46px;}
+ .image-508 {width: 22.82px; height: 8.39px; position: absolute; left: 228.36px;top: 202.26px;}
+ .image-509 {width: 22.82px; height: 14.99px; position: absolute; left: 228.36px;top: 192.43px;}
+ .image-510 {width: 18.98px; height: 19.45px; position: absolute; left: 68.31px;top: 205.48px;}
+ .image-511 {width: 19.45px; height: 11.15px; position: absolute; left: 117.92px;top: 209.94px;}
+ .image-512 {width: 22.98px; height: 7px; position: absolute; left: 114.39px;top: 205.64px;}
+ .image-513 {width: 9.77px; height: 4.55px; position: absolute; left: 219.14px;top: 205.48px;}
+ .rectangle-2 {background: #effff4; border-radius: 8px 8px 0px 0px; width: 736px; height: 50px; position: absolute; left: 352px;top: 186px;}
+ .let-s-learn-share-inspire-each-other-with-our-passion-for-computer-engineering-sign-up-now {color: #008a45; text-align: center; font: 500 14px/16px 'IBM Plex Sans', sans-serif; position: absolute; left: 411px;top: 203px;}
+ .group-33 {width: 320px; height: 313px; position: static;}
+ .sign-in {color: #000000; text-align: left; font: 700 24px 'IBM Plex Sans', sans-serif; position: absolute; left: 388px;top: 260px;}
+ .group-35 {width: 320px; height: 38px; position: static;}
+ .rectangle-22 {background: #ffffff; border-radius: 2px; border-style: solid; border-color: #d9d9db; border-width: 0.6px; width: 320px; height: 38px; position: absolute; left: 388px;top: 535px;}
+ .group {width: 146px; height: 16px; position: static;}
+ .search {position: absolute; left: 473px;top: 546px; overflow: visible;}
+ .sign-in-with-google {color: #000000; text-align: left; font: 400 14px/16px 'IBM Plex Sans', sans-serif; position: absolute; left: 499px;top: 546px;}
+ .rectangle-2-1 {background: #ffffff; border-radius: 2px; border-style: solid; border-color: #d9d9db; border-width: 0.6px; width: 320px; height: 38px; position: absolute; left: 388px;top: 489px;}
+ .group-36 {width: 163px; height: 16px; position: static;}
+ .sign-in-with-facebook {color: #000000; text-align: left; font: 400 14px/16px 'IBM Plex Sans', sans-serif; position: absolute; left: 491px;top: 500px;}
+ .f-logo-rgb-blue-1024 {width: 16px; height: 16px; position: absolute; left: 465px;top: 500px;}
+ .group-38 {width: 320px; height: 150px; position: static;}
+ .group-2 {width: 320px; height: 40px; position: static;}
+ .rectangle-23 {background: #2f6ce5; border-radius: 20px; width: 320px; height: 40px; position: absolute; left: 388px;top: 425px;}
+ .sign-in2 {color: #ffffff; text-align: center; font: 600 14px/16px 'IBM Plex Sans', sans-serif; position: absolute; left: 525px;top: 437px;}
+ .group-39 {width: 320px; height: 91px; position: static;}
+ .group-310 {width: 320px; height: 46px; position: static;}
+ .rectangle-2-12 {background: #f7f8fa; border-radius: 0px 0px 2px 2px; border-style: solid; border-color: #d9d9db; border-width: 1px; width: 320px; height: 46px; position: absolute; left: 388px;top: 360px;}
+ .password {color: #8a8a8a; text-align: left; font: 500 15px/16px 'IBM Plex Sans', sans-serif; position: absolute; left: 400px;top: 375px;}
+ .rectangle-24 {background: #f7f8fa; border-radius: 2px 2px 0px 0px; border-style: solid; border-color: #d9d9db; border-width: 1px; width: 320px; height: 46px; position: absolute; left: 388px;top: 315px;}
+ .email {color: #8a8a8a; text-align: left; font: 500 15px/16px 'IBM Plex Sans', sans-serif; position: absolute; left: 400px;top: 330px;}
+ .group-311 {width: 18px; height: 18px; position: static;}
+ .icon-action-visibility-24-px5 {position: absolute; left: 672px;top: 374px; overflow: visible;}
+ .group-3-1 {opacity: 0.800000011920929; width: 28px; height: 28px; position: static;}
+ .baseline-cancel-24-px {position: absolute; left: 1074px;top: 146px; overflow: visible;}
